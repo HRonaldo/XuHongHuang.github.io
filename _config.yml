@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my.png"
   name             : "Xu-Hong Huang"
   pronouns         : # example: "he/his"  
   bio              : "a funny man"
   location         : "Nanjing University Suzhou Campus, No. 1520 Taihu Avenue, Huqiu District, Suzhou 215163, China"
   employer         : "Nanjing University Suzhou Campus"
-  uri              : # URL
+  uri              :  https://hronaldo.github.io/XuHongHuang.github.io/
   email            : "221900020@smail.nju.edu.cn" 
 
   # Academic websites
